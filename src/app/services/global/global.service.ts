@@ -25,16 +25,5 @@ export class GlobalService {
       window.scroll(0, 0);
     }
   }
-
-  // Get SEO code block data
-  getSEOCodeBlocks() {
-  //   try {
-  //     return this.http.get<any>(
-  //       environment.baseUrl + environment.seo_codeblock_url
-  //     );
-  //   } catch (error) {
-  //     return Observable.throw(error);
-  //   }
-  }
   
 }
