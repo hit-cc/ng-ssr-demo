@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: 
-Allow: /
-Sitemap: http://localhost:4200/
+Allow: 
+Sitemap: https://lucid-fermi-80423d.netlify.app/
 
 
 
