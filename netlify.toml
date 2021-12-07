@@ -1,0 +1,9 @@
+[build]
+command = "npm run build:ssr"
+public = "/dist/angular-ssr-demo"
+base = "/"
+
+[[redirects]]
+from = "/*"
+to = "index.html"
+status  = 200

@@ -47,3 +47,8 @@ We have created the following files
     - on push code in git automatically generate build and deploy
 
 ## glitch
+    - login with git account
+    - create new project
+    - add git repo url and import project
+    - you need to unable npm using this command un glitch termianl `enable-npm`
+    - install node module  `npm i`
