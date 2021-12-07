@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "1st title",
+        "content": "<script>\n\n console.log(\"first script tag on header\");\n\nfunction testFun(){\nconsole.log(\"from function\");\n}\n\n</script> \n\n<script> console.log(\"Header second Script\");</script> ",
+        "deletedDate": null,
+        "createdDate": "2021-04-06 17:13:37",
+        "updatedDate": "2021-11-23 13:36:55"
+    },
+    {
+        "id": 2,
+        "title": "2nd title",
+        "content": "<script> console.log(\"first script on Body\");</script> \n\n<script> console.log(\"second script in body\");</script> ",
+        "deletedDate": null,
+        "createdDate": "2021-04-06 17:13:37",
+        "updatedDate": "2021-11-23 13:32:56"
+    },
+    {
+        "id": 3,
+        "title": "3rd title",
+        "content": "<script> console.log(\"first script in footer\");</script> ",
+        "deletedDate": null,
+        "createdDate": "2021-04-06 17:13:37",
+        "updatedDate": "2021-11-23 13:32:24"
+    }
+]
